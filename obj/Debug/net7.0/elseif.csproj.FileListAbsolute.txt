@@ -1,0 +1,15 @@
+D:\Patika\elseif\bin\Debug\net7.0\elseif.exe
+D:\Patika\elseif\bin\Debug\net7.0\elseif.deps.json
+D:\Patika\elseif\bin\Debug\net7.0\elseif.runtimeconfig.json
+D:\Patika\elseif\bin\Debug\net7.0\elseif.dll
+D:\Patika\elseif\bin\Debug\net7.0\elseif.pdb
+D:\Patika\elseif\obj\Debug\net7.0\elseif.csproj.AssemblyReference.cache
+D:\Patika\elseif\obj\Debug\net7.0\elseif.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\elseif\obj\Debug\net7.0\elseif.AssemblyInfoInputs.cache
+D:\Patika\elseif\obj\Debug\net7.0\elseif.AssemblyInfo.cs
+D:\Patika\elseif\obj\Debug\net7.0\elseif.csproj.CoreCompileInputs.cache
+D:\Patika\elseif\obj\Debug\net7.0\elseif.dll
+D:\Patika\elseif\obj\Debug\net7.0\refint\elseif.dll
+D:\Patika\elseif\obj\Debug\net7.0\elseif.pdb
+D:\Patika\elseif\obj\Debug\net7.0\elseif.genruntimeconfig.cache
+D:\Patika\elseif\obj\Debug\net7.0\ref\elseif.dll
